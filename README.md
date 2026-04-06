@@ -2,7 +2,7 @@
 
 ## What is this
 
-A POC simulation for Veridion's PreSales Data Specialist role. A manufacturing company's procurement team sent ~592 suppliers that needed to be matched against Veridion's company database and quality-checked.
+A POC simulation for Veridion's Deeptech Engineer Intern role. A manufacturing company's procurement team sent ~592 suppliers that needed to be matched against Veridion's company database and quality-checked.
 
 ## What's in this repo
 
